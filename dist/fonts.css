@@ -1,9 +1,0 @@
-@font-face {
-  font-family: 'Jersey 15';
-  src: url('/fonts/jersey-15.woff2') format('woff2'),
-       url('/fonts/jersey-15.woff') format('woff'),
-       url('/fonts/jersey-15.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-} 
